@@ -1,6 +1,6 @@
 {% set name = "requirements-detector" %}
-{% set version = "1.4.0" %}
-{% set sha256 = "0326c39269d87504c0e1b75932b86a6fdaa8a9eb3ce82243e5a21b696c2ade76" %}
+{% set version = "1.5.0" %}
+{% set sha256 = "49ae15a73c1ab4e33c81e02166248d61323d331999c798b226bc21a09846dbbe" %}
 
 package:
   name: {{ name|lower }}
